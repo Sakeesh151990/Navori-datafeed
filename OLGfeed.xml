@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OLG demo feed for Navori. Winning numbers are real past draws; jackpot values are DEMO placeholders. -->
+<items>
+  <item>
+    <headline>LOTTO MAX - Estimated jackpot $20 Million plus MAXMILLIONS</headline>
+    <game>LOTTO MAX</game>
+    <jackpot>$20 Million</jackpot>
+    <next_draw>Tuesday, November 24, 2026</next_draw>
+    <draw_days>Tuesdays and Fridays</draw_days>
+    <price>$5 per play</price>
+    <last_draw_date>Friday, November 13, 2026</last_draw_date>
+    <winning_numbers>04 09 15 25 27 44 47</winning_numbers>
+    <n1>04</n1>
+    <n2>09</n2>
+    <n3>15</n3>
+    <n4>25</n4>
+    <n5>27</n5>
+    <n6>44</n6>
+    <n7>47</n7>
+    <bonus>29</bonus>
+    <tagline>Get your ticket before 10:30 p.m. ET on draw night</tagline>
+    <image>https://picsum.photos/id/1015/1920/1080</image>
+  </item>
+  <item>
+    <headline>LOTTO 6/49 - Gold Ball jackpot $30 Million plus $5 Million Classic Draw</headline>
+    <game>LOTTO 6/49</game>
+    <jackpot>$30 Million</jackpot>
+    <next_draw>Wednesday, November 25, 2026</next_draw>
+    <draw_days>Wednesdays and Saturdays</draw_days>
+    <price>$3 per play</price>
+    <last_draw_date>Wednesday, November 18, 2026</last_draw_date>
+    <winning_numbers>10 25 28 37 42 49</winning_numbers>
+    <n1>10</n1>
+    <n2>25</n2>
+    <n3>28</n3>
+    <n4>37</n4>
+    <n5>42</n5>
+    <n6>49</n6>
+    <n7></n7>
+    <bonus>32</bonus>
+    <tagline>Every play includes the Classic Draw and the Gold Ball Draw</tagline>
+    <image>https://picsum.photos/id/1036/1920/1080</image>
+  </item>
+</items>
