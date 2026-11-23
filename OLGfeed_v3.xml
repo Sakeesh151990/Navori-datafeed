@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <items>
-  <!-- OLG demo feed v3 (grid update): records 1-5 unchanged; records 6-9 = single-game price rows, 10-13 = bundle price rows (fields used: game, tagline, price, image). All prices are DEMO placeholder values. -->
+  <!-- OLG demo feed v4: records 1-4 = games, 5 = price board, 6-9 = single-game price rows, 10-13 = bundle/promo price rows. All prices and jackpots are DEMO placeholder values. -->
   <item>
     <headline>LOTTO MAX - Estimated jackpot $20 Million plus MAXMILLIONS</headline>
     <game>LOTTO MAX</game>
@@ -19,7 +19,7 @@
     <n7>47</n7>
     <bonus>29</bonus>
     <tagline>Get your ticket before 10:30 p.m. ET on draw night</tagline>
-    <image>https://picsum.photos/id/1015/1920/1080</image>
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_01_LottoMax.png</image>
     <game_code>LOTTOMAX</game_code>
     <headline_short>TONIGHT COULD CHANGE EVERYTHING</headline_short>
     <next_draw_label>NEXT JACKPOT:</next_draw_label>
@@ -99,7 +99,7 @@
     <n7 />
     <bonus>32</bonus>
     <tagline>Every play includes the Classic Draw and the Gold Ball Draw</tagline>
-    <image>https://picsum.photos/id/1036/1920/1080</image>
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_02_Lotto649.png</image>
     <game_code>LOTTO649</game_code>
     <headline_short>YOUR NEXT BIG MOMENT COULD START HERE.</headline_short>
     <next_draw_label>NEXT JACKPOT:</next_draw_label>
@@ -179,7 +179,7 @@
     <n7 />
     <bonus />
     <tagline>Add ENCORE at checkout for an extra $1</tagline>
-    <image />
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_03_Encore.png</image>
     <game_code>ENCORE</game_code>
     <headline_short>WINNERS CHOOSE ENCORE</headline_short>
     <next_draw_label>NEXT DRAW:</next_draw_label>
@@ -245,10 +245,10 @@
     <headline>CASH POP - New! Play up to 5 daily draws</headline>
     <game>CASH POP</game>
     <jackpot>$100,000</jackpot>
-    <next_draw>Tuesday, November 24, 2026</next_draw>
+    <next_draw>Monday, November 23, 2026</next_draw>
     <draw_days>Daily</draw_days>
     <price>$2 per play</price>
-    <last_draw_date>Monday, November 23, 2026</last_draw_date>
+    <last_draw_date>Sunday, November 22, 2026</last_draw_date>
     <winning_numbers />
     <n1 />
     <n2 />
@@ -259,7 +259,7 @@
     <n7 />
     <bonus />
     <tagline>Play up to 5 daily draws</tagline>
-    <image />
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_04_CashPop.png</image>
     <game_code>CASHPOP</game_code>
     <headline_short>NEW! CASH POP</headline_short>
     <next_draw_label>NEXT DRAW:</next_draw_label>
@@ -339,7 +339,7 @@
     <n7 />
     <bonus />
     <tagline>Pick your play. Add Encore for $1 more.</tagline>
-    <image>https://picsum.photos/id/1015/1920/1080</image>
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_07_Max_649.png</image>
     <game_code>PRICING</game_code>
     <headline_short>TICKET PRICES</headline_short>
     <next_draw_label />
@@ -385,7 +385,7 @@
     <menu_s3_price>$1</menu_s3_price>
     <menu_s3_desc>add to any Max or 6/49 play</menu_s3_desc>
     <menu_s4_name>CASH POP</menu_s4_name>
-    <menu_s4_price>$1+</menu_s4_price>
+    <menu_s4_price>$2</menu_s4_price>
     <menu_s4_desc>up to 5 draws every day</menu_s4_desc>
     <menu_b1_name>LOTTO MAX + ENCORE</menu_b1_name>
     <menu_b1_price>$6</menu_b1_price>
@@ -397,7 +397,7 @@
     <menu_b3_price>$8</menu_b3_price>
     <menu_b3_desc>two jackpots, one visit</menu_b3_desc>
     <menu_b4_name>THE WHOLE LINEUP</menu_b4_name>
-    <menu_b4_price>$8</menu_b4_price>
+    <menu_b4_price>$9</menu_b4_price>
     <menu_b4_desc>Max + 6/49 + Encore</menu_b4_desc>
     <menu_note>Prices are per play and shown as demo values. Must be 18+ to play.</menu_note>
   </item>
@@ -647,7 +647,7 @@
     <jackpot />
     <next_draw />
     <draw_days />
-    <price>$1+</price>
+    <price>$2</price>
     <last_draw_date />
     <winning_numbers />
     <n1 />
