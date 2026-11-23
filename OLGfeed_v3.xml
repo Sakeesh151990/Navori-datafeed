@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <items>
-  <!-- OLG demo feed v3 (grid update): records 1-5 unchanged; records 6-9 = single-game price rows, 10-13 = bundle price rows (fields used: game, tagline, price). All prices are DEMO placeholder values. -->
+  <!-- OLG demo feed v3 (grid update): records 1-5 unchanged; records 6-9 = single-game price rows, 10-13 = bundle price rows (fields used: game, tagline, price, image). All prices are DEMO placeholder values. -->
   <item>
     <headline>LOTTO MAX - Estimated jackpot $20 Million plus MAXMILLIONS</headline>
     <game>LOTTO MAX</game>
@@ -374,7 +374,7 @@
     <menu_title>TICKET PRICES</menu_title>
     <menu_subtitle>Pick your play. Add Encore for $1 more.</menu_subtitle>
     <menu_singles_label>SINGLE GAMES</menu_singles_label>
-    <menu_bundles_label>BUNDLES &amp; SAVINGS</menu_bundles_label>
+    <menu_bundles_label>BUNDLES &amp; PROMOTIONS</menu_bundles_label>
     <menu_s1_name>LOTTO MAX</menu_s1_name>
     <menu_s1_price>$5</menu_s1_price>
     <menu_s1_desc>per play | Tue &amp; Fri draws</menu_s1_desc>
@@ -419,7 +419,7 @@
     <n7 />
     <bonus />
     <tagline>per play | Tue &amp; Fri draws</tagline>
-    <image />
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_01_LottoMax.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
     <next_draw_label />
@@ -499,7 +499,7 @@
     <n7 />
     <bonus />
     <tagline>per play | Wed &amp; Sat draws</tagline>
-    <image />
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_02_Lotto649.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
     <next_draw_label />
@@ -579,7 +579,7 @@
     <n7 />
     <bonus />
     <tagline>add to any Max or 6/49 play</tagline>
-    <image />
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_03_Encore.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
     <next_draw_label />
@@ -659,7 +659,7 @@
     <n7 />
     <bonus />
     <tagline>up to 5 draws every day</tagline>
-    <image />
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_04_CashPop.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
     <next_draw_label />
@@ -739,7 +739,7 @@
     <n7 />
     <bonus />
     <tagline>$5 play + $1 Encore</tagline>
-    <image />
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_05_Max_Encore.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
     <next_draw_label />
@@ -819,7 +819,7 @@
     <n7 />
     <bonus />
     <tagline>$3 play + $1 Encore</tagline>
-    <image />
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_06_649_Encore.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
     <next_draw_label />
@@ -899,7 +899,7 @@
     <n7 />
     <bonus />
     <tagline>two jackpots, one visit</tagline>
-    <image />
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_07_Max_649.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
     <next_draw_label />
@@ -979,7 +979,7 @@
     <n7 />
     <bonus />
     <tagline>Max + 6/49 + Encore</tagline>
-    <image />
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_08_Lineup.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
     <next_draw_label />
