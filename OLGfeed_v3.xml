@@ -962,8 +962,8 @@
     <menu_note />
   </item>
   <item>
-    <headline>TICKET PRICE ROW - THE WHOLE LINEUP</headline>
-    <game>THE WHOLE LINEUP</game>
+    <headline>TICKET PRICE ROW - PROMO</headline>
+    <game>PROMO</game>
     <jackpot />
     <next_draw />
     <draw_days />
@@ -978,8 +978,8 @@
     <n6 />
     <n7 />
     <bonus />
-    <tagline>Max + 6/49 + Encore</tagline>
-    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_08_Lineup.png</image>
+    <tagline>Max + 6/49 + Encore + Cash Pop</tagline>
+    <image>https://sakeesh151990.github.io/Navori-datafeed/Tile_08_Promo.png</image>
     <game_code>PRICE_ROW</game_code>
     <headline_short />
     <next_draw_label />
