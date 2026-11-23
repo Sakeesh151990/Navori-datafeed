@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <items>
-  <!-- OLG demo feed v3: v2 fields unchanged; 29 menu_* fields appended; record 5 = TICKET PRICES menu. All prices are DEMO placeholder values. --><item>
+  <!-- OLG demo feed v3 (grid update): records 1-5 unchanged; records 6-9 = single-game price rows, 10-13 = bundle price rows (fields used: game, tagline, price). All prices are DEMO placeholder values. -->
+  <item>
     <headline>LOTTO MAX - Estimated jackpot $20 Million plus MAXMILLIONS</headline>
     <game>LOTTO MAX</game>
     <jackpot>$20 Million</jackpot>
@@ -399,5 +400,645 @@
     <menu_b4_price>$9</menu_b4_price>
     <menu_b4_desc>Max + 6/49 + Encore</menu_b4_desc>
     <menu_note>Prices are per play and shown as demo values. Must be 18+ to play.</menu_note>
+  </item>
+  <item>
+    <headline>TICKET PRICE ROW - LOTTO MAX</headline>
+    <game>LOTTO MAX</game>
+    <jackpot />
+    <next_draw />
+    <draw_days />
+    <price>$5</price>
+    <last_draw_date />
+    <winning_numbers />
+    <n1 />
+    <n2 />
+    <n3 />
+    <n4 />
+    <n5 />
+    <n6 />
+    <n7 />
+    <bonus />
+    <tagline>per play | Tue &amp; Fri draws</tagline>
+    <image />
+    <game_code>PRICE_ROW</game_code>
+    <headline_short />
+    <next_draw_label />
+    <next_draw_line />
+    <next_draw_short />
+    <jackpot_label />
+    <maxmillions_line />
+    <prizes_line />
+    <secondary_prize />
+    <promo_headline />
+    <promo_subline />
+    <draw_time_label />
+    <draw_time />
+    <draws_per_day />
+    <cta />
+    <responsible_msg />
+    <website />
+    <header_title />
+    <header_subtitle />
+    <footer_left />
+    <footer_center />
+    <footer_right />
+    <winner_names />
+    <winner_amount />
+    <winner_location />
+    <winner_game />
+    <superdraw_date />
+    <superdraw_prizes />
+    <language />
+    <valid_from />
+    <valid_to />
+    <menu_title />
+    <menu_subtitle />
+    <menu_singles_label />
+    <menu_bundles_label />
+    <menu_s1_name />
+    <menu_s1_price />
+    <menu_s1_desc />
+    <menu_s2_name />
+    <menu_s2_price />
+    <menu_s2_desc />
+    <menu_s3_name />
+    <menu_s3_price />
+    <menu_s3_desc />
+    <menu_s4_name />
+    <menu_s4_price />
+    <menu_s4_desc />
+    <menu_b1_name />
+    <menu_b1_price />
+    <menu_b1_desc />
+    <menu_b2_name />
+    <menu_b2_price />
+    <menu_b2_desc />
+    <menu_b3_name />
+    <menu_b3_price />
+    <menu_b3_desc />
+    <menu_b4_name />
+    <menu_b4_price />
+    <menu_b4_desc />
+    <menu_note />
+  </item>
+  <item>
+    <headline>TICKET PRICE ROW - LOTTO 6/49</headline>
+    <game>LOTTO 6/49</game>
+    <jackpot />
+    <next_draw />
+    <draw_days />
+    <price>$3</price>
+    <last_draw_date />
+    <winning_numbers />
+    <n1 />
+    <n2 />
+    <n3 />
+    <n4 />
+    <n5 />
+    <n6 />
+    <n7 />
+    <bonus />
+    <tagline>per play | Wed &amp; Sat draws</tagline>
+    <image />
+    <game_code>PRICE_ROW</game_code>
+    <headline_short />
+    <next_draw_label />
+    <next_draw_line />
+    <next_draw_short />
+    <jackpot_label />
+    <maxmillions_line />
+    <prizes_line />
+    <secondary_prize />
+    <promo_headline />
+    <promo_subline />
+    <draw_time_label />
+    <draw_time />
+    <draws_per_day />
+    <cta />
+    <responsible_msg />
+    <website />
+    <header_title />
+    <header_subtitle />
+    <footer_left />
+    <footer_center />
+    <footer_right />
+    <winner_names />
+    <winner_amount />
+    <winner_location />
+    <winner_game />
+    <superdraw_date />
+    <superdraw_prizes />
+    <language />
+    <valid_from />
+    <valid_to />
+    <menu_title />
+    <menu_subtitle />
+    <menu_singles_label />
+    <menu_bundles_label />
+    <menu_s1_name />
+    <menu_s1_price />
+    <menu_s1_desc />
+    <menu_s2_name />
+    <menu_s2_price />
+    <menu_s2_desc />
+    <menu_s3_name />
+    <menu_s3_price />
+    <menu_s3_desc />
+    <menu_s4_name />
+    <menu_s4_price />
+    <menu_s4_desc />
+    <menu_b1_name />
+    <menu_b1_price />
+    <menu_b1_desc />
+    <menu_b2_name />
+    <menu_b2_price />
+    <menu_b2_desc />
+    <menu_b3_name />
+    <menu_b3_price />
+    <menu_b3_desc />
+    <menu_b4_name />
+    <menu_b4_price />
+    <menu_b4_desc />
+    <menu_note />
+  </item>
+  <item>
+    <headline>TICKET PRICE ROW - ENCORE</headline>
+    <game>ENCORE</game>
+    <jackpot />
+    <next_draw />
+    <draw_days />
+    <price>$1</price>
+    <last_draw_date />
+    <winning_numbers />
+    <n1 />
+    <n2 />
+    <n3 />
+    <n4 />
+    <n5 />
+    <n6 />
+    <n7 />
+    <bonus />
+    <tagline>add to any Max or 6/49 play</tagline>
+    <image />
+    <game_code>PRICE_ROW</game_code>
+    <headline_short />
+    <next_draw_label />
+    <next_draw_line />
+    <next_draw_short />
+    <jackpot_label />
+    <maxmillions_line />
+    <prizes_line />
+    <secondary_prize />
+    <promo_headline />
+    <promo_subline />
+    <draw_time_label />
+    <draw_time />
+    <draws_per_day />
+    <cta />
+    <responsible_msg />
+    <website />
+    <header_title />
+    <header_subtitle />
+    <footer_left />
+    <footer_center />
+    <footer_right />
+    <winner_names />
+    <winner_amount />
+    <winner_location />
+    <winner_game />
+    <superdraw_date />
+    <superdraw_prizes />
+    <language />
+    <valid_from />
+    <valid_to />
+    <menu_title />
+    <menu_subtitle />
+    <menu_singles_label />
+    <menu_bundles_label />
+    <menu_s1_name />
+    <menu_s1_price />
+    <menu_s1_desc />
+    <menu_s2_name />
+    <menu_s2_price />
+    <menu_s2_desc />
+    <menu_s3_name />
+    <menu_s3_price />
+    <menu_s3_desc />
+    <menu_s4_name />
+    <menu_s4_price />
+    <menu_s4_desc />
+    <menu_b1_name />
+    <menu_b1_price />
+    <menu_b1_desc />
+    <menu_b2_name />
+    <menu_b2_price />
+    <menu_b2_desc />
+    <menu_b3_name />
+    <menu_b3_price />
+    <menu_b3_desc />
+    <menu_b4_name />
+    <menu_b4_price />
+    <menu_b4_desc />
+    <menu_note />
+  </item>
+  <item>
+    <headline>TICKET PRICE ROW - CASH POP</headline>
+    <game>CASH POP</game>
+    <jackpot />
+    <next_draw />
+    <draw_days />
+    <price>$1+</price>
+    <last_draw_date />
+    <winning_numbers />
+    <n1 />
+    <n2 />
+    <n3 />
+    <n4 />
+    <n5 />
+    <n6 />
+    <n7 />
+    <bonus />
+    <tagline>up to 5 draws every day</tagline>
+    <image />
+    <game_code>PRICE_ROW</game_code>
+    <headline_short />
+    <next_draw_label />
+    <next_draw_line />
+    <next_draw_short />
+    <jackpot_label />
+    <maxmillions_line />
+    <prizes_line />
+    <secondary_prize />
+    <promo_headline />
+    <promo_subline />
+    <draw_time_label />
+    <draw_time />
+    <draws_per_day />
+    <cta />
+    <responsible_msg />
+    <website />
+    <header_title />
+    <header_subtitle />
+    <footer_left />
+    <footer_center />
+    <footer_right />
+    <winner_names />
+    <winner_amount />
+    <winner_location />
+    <winner_game />
+    <superdraw_date />
+    <superdraw_prizes />
+    <language />
+    <valid_from />
+    <valid_to />
+    <menu_title />
+    <menu_subtitle />
+    <menu_singles_label />
+    <menu_bundles_label />
+    <menu_s1_name />
+    <menu_s1_price />
+    <menu_s1_desc />
+    <menu_s2_name />
+    <menu_s2_price />
+    <menu_s2_desc />
+    <menu_s3_name />
+    <menu_s3_price />
+    <menu_s3_desc />
+    <menu_s4_name />
+    <menu_s4_price />
+    <menu_s4_desc />
+    <menu_b1_name />
+    <menu_b1_price />
+    <menu_b1_desc />
+    <menu_b2_name />
+    <menu_b2_price />
+    <menu_b2_desc />
+    <menu_b3_name />
+    <menu_b3_price />
+    <menu_b3_desc />
+    <menu_b4_name />
+    <menu_b4_price />
+    <menu_b4_desc />
+    <menu_note />
+  </item>
+  <item>
+    <headline>TICKET PRICE ROW - LOTTO MAX + ENCORE</headline>
+    <game>LOTTO MAX + ENCORE</game>
+    <jackpot />
+    <next_draw />
+    <draw_days />
+    <price>$6</price>
+    <last_draw_date />
+    <winning_numbers />
+    <n1 />
+    <n2 />
+    <n3 />
+    <n4 />
+    <n5 />
+    <n6 />
+    <n7 />
+    <bonus />
+    <tagline>$5 play + $1 Encore</tagline>
+    <image />
+    <game_code>PRICE_ROW</game_code>
+    <headline_short />
+    <next_draw_label />
+    <next_draw_line />
+    <next_draw_short />
+    <jackpot_label />
+    <maxmillions_line />
+    <prizes_line />
+    <secondary_prize />
+    <promo_headline />
+    <promo_subline />
+    <draw_time_label />
+    <draw_time />
+    <draws_per_day />
+    <cta />
+    <responsible_msg />
+    <website />
+    <header_title />
+    <header_subtitle />
+    <footer_left />
+    <footer_center />
+    <footer_right />
+    <winner_names />
+    <winner_amount />
+    <winner_location />
+    <winner_game />
+    <superdraw_date />
+    <superdraw_prizes />
+    <language />
+    <valid_from />
+    <valid_to />
+    <menu_title />
+    <menu_subtitle />
+    <menu_singles_label />
+    <menu_bundles_label />
+    <menu_s1_name />
+    <menu_s1_price />
+    <menu_s1_desc />
+    <menu_s2_name />
+    <menu_s2_price />
+    <menu_s2_desc />
+    <menu_s3_name />
+    <menu_s3_price />
+    <menu_s3_desc />
+    <menu_s4_name />
+    <menu_s4_price />
+    <menu_s4_desc />
+    <menu_b1_name />
+    <menu_b1_price />
+    <menu_b1_desc />
+    <menu_b2_name />
+    <menu_b2_price />
+    <menu_b2_desc />
+    <menu_b3_name />
+    <menu_b3_price />
+    <menu_b3_desc />
+    <menu_b4_name />
+    <menu_b4_price />
+    <menu_b4_desc />
+    <menu_note />
+  </item>
+  <item>
+    <headline>TICKET PRICE ROW - 6/49 + ENCORE</headline>
+    <game>6/49 + ENCORE</game>
+    <jackpot />
+    <next_draw />
+    <draw_days />
+    <price>$4</price>
+    <last_draw_date />
+    <winning_numbers />
+    <n1 />
+    <n2 />
+    <n3 />
+    <n4 />
+    <n5 />
+    <n6 />
+    <n7 />
+    <bonus />
+    <tagline>$3 play + $1 Encore</tagline>
+    <image />
+    <game_code>PRICE_ROW</game_code>
+    <headline_short />
+    <next_draw_label />
+    <next_draw_line />
+    <next_draw_short />
+    <jackpot_label />
+    <maxmillions_line />
+    <prizes_line />
+    <secondary_prize />
+    <promo_headline />
+    <promo_subline />
+    <draw_time_label />
+    <draw_time />
+    <draws_per_day />
+    <cta />
+    <responsible_msg />
+    <website />
+    <header_title />
+    <header_subtitle />
+    <footer_left />
+    <footer_center />
+    <footer_right />
+    <winner_names />
+    <winner_amount />
+    <winner_location />
+    <winner_game />
+    <superdraw_date />
+    <superdraw_prizes />
+    <language />
+    <valid_from />
+    <valid_to />
+    <menu_title />
+    <menu_subtitle />
+    <menu_singles_label />
+    <menu_bundles_label />
+    <menu_s1_name />
+    <menu_s1_price />
+    <menu_s1_desc />
+    <menu_s2_name />
+    <menu_s2_price />
+    <menu_s2_desc />
+    <menu_s3_name />
+    <menu_s3_price />
+    <menu_s3_desc />
+    <menu_s4_name />
+    <menu_s4_price />
+    <menu_s4_desc />
+    <menu_b1_name />
+    <menu_b1_price />
+    <menu_b1_desc />
+    <menu_b2_name />
+    <menu_b2_price />
+    <menu_b2_desc />
+    <menu_b3_name />
+    <menu_b3_price />
+    <menu_b3_desc />
+    <menu_b4_name />
+    <menu_b4_price />
+    <menu_b4_desc />
+    <menu_note />
+  </item>
+  <item>
+    <headline>TICKET PRICE ROW - LOTTO MAX + 6/49</headline>
+    <game>LOTTO MAX + 6/49</game>
+    <jackpot />
+    <next_draw />
+    <draw_days />
+    <price>$8</price>
+    <last_draw_date />
+    <winning_numbers />
+    <n1 />
+    <n2 />
+    <n3 />
+    <n4 />
+    <n5 />
+    <n6 />
+    <n7 />
+    <bonus />
+    <tagline>two jackpots, one visit</tagline>
+    <image />
+    <game_code>PRICE_ROW</game_code>
+    <headline_short />
+    <next_draw_label />
+    <next_draw_line />
+    <next_draw_short />
+    <jackpot_label />
+    <maxmillions_line />
+    <prizes_line />
+    <secondary_prize />
+    <promo_headline />
+    <promo_subline />
+    <draw_time_label />
+    <draw_time />
+    <draws_per_day />
+    <cta />
+    <responsible_msg />
+    <website />
+    <header_title />
+    <header_subtitle />
+    <footer_left />
+    <footer_center />
+    <footer_right />
+    <winner_names />
+    <winner_amount />
+    <winner_location />
+    <winner_game />
+    <superdraw_date />
+    <superdraw_prizes />
+    <language />
+    <valid_from />
+    <valid_to />
+    <menu_title />
+    <menu_subtitle />
+    <menu_singles_label />
+    <menu_bundles_label />
+    <menu_s1_name />
+    <menu_s1_price />
+    <menu_s1_desc />
+    <menu_s2_name />
+    <menu_s2_price />
+    <menu_s2_desc />
+    <menu_s3_name />
+    <menu_s3_price />
+    <menu_s3_desc />
+    <menu_s4_name />
+    <menu_s4_price />
+    <menu_s4_desc />
+    <menu_b1_name />
+    <menu_b1_price />
+    <menu_b1_desc />
+    <menu_b2_name />
+    <menu_b2_price />
+    <menu_b2_desc />
+    <menu_b3_name />
+    <menu_b3_price />
+    <menu_b3_desc />
+    <menu_b4_name />
+    <menu_b4_price />
+    <menu_b4_desc />
+    <menu_note />
+  </item>
+  <item>
+    <headline>TICKET PRICE ROW - THE WHOLE LINEUP</headline>
+    <game>THE WHOLE LINEUP</game>
+    <jackpot />
+    <next_draw />
+    <draw_days />
+    <price>$9</price>
+    <last_draw_date />
+    <winning_numbers />
+    <n1 />
+    <n2 />
+    <n3 />
+    <n4 />
+    <n5 />
+    <n6 />
+    <n7 />
+    <bonus />
+    <tagline>Max + 6/49 + Encore</tagline>
+    <image />
+    <game_code>PRICE_ROW</game_code>
+    <headline_short />
+    <next_draw_label />
+    <next_draw_line />
+    <next_draw_short />
+    <jackpot_label />
+    <maxmillions_line />
+    <prizes_line />
+    <secondary_prize />
+    <promo_headline />
+    <promo_subline />
+    <draw_time_label />
+    <draw_time />
+    <draws_per_day />
+    <cta />
+    <responsible_msg />
+    <website />
+    <header_title />
+    <header_subtitle />
+    <footer_left />
+    <footer_center />
+    <footer_right />
+    <winner_names />
+    <winner_amount />
+    <winner_location />
+    <winner_game />
+    <superdraw_date />
+    <superdraw_prizes />
+    <language />
+    <valid_from />
+    <valid_to />
+    <menu_title />
+    <menu_subtitle />
+    <menu_singles_label />
+    <menu_bundles_label />
+    <menu_s1_name />
+    <menu_s1_price />
+    <menu_s1_desc />
+    <menu_s2_name />
+    <menu_s2_price />
+    <menu_s2_desc />
+    <menu_s3_name />
+    <menu_s3_price />
+    <menu_s3_desc />
+    <menu_s4_name />
+    <menu_s4_price />
+    <menu_s4_desc />
+    <menu_b1_name />
+    <menu_b1_price />
+    <menu_b1_desc />
+    <menu_b2_name />
+    <menu_b2_price />
+    <menu_b2_desc />
+    <menu_b3_name />
+    <menu_b3_price />
+    <menu_b3_desc />
+    <menu_b4_name />
+    <menu_b4_price />
+    <menu_b4_desc />
+    <menu_note />
   </item>
 </items>
