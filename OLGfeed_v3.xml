@@ -397,7 +397,7 @@
     <menu_b3_price>$8</menu_b3_price>
     <menu_b3_desc>two jackpots, one visit</menu_b3_desc>
     <menu_b4_name>THE WHOLE LINEUP</menu_b4_name>
-    <menu_b4_price>$9</menu_b4_price>
+    <menu_b4_price>$8</menu_b4_price>
     <menu_b4_desc>Max + 6/49 + Encore</menu_b4_desc>
     <menu_note>Prices are per play and shown as demo values. Must be 18+ to play.</menu_note>
   </item>
@@ -967,7 +967,7 @@
     <jackpot />
     <next_draw />
     <draw_days />
-    <price>$9</price>
+    <price>$8</price>
     <last_draw_date />
     <winning_numbers />
     <n1 />
